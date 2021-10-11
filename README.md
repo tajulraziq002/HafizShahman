@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HafizShahman
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Politeknik MUadzam Shah
+- 🌱 I’m currently internship at Revenue Discovery Sdn. Bhd.
 - 💞️ I’m looking to collaborate on system and iot
 - 📫 How to reach me? donno hahha
 
